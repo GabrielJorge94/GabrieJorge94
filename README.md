@@ -1,8 +1,7 @@
 Hi all,
-I'm Gabriel Jorge
-A brazilian 🇧🇷 living in London - ON 🇨🇦. 
-I'm currently enrolled in a Web development program at [Trybe](https://www.betrybe.com/) :rocket:
-I've always been interested in tech and sciences ever since I was a kid. From July 2021 until July 2022 I'll be dedicating myself to become an outstanding Web Dev. 
+
+I'm Gabriel Jorge a 27yo brazilian 🇧🇷 living in London - ON 🇨🇦 and I'm currently enrolled in a Web development program at [Trybe](https://www.betrybe.com/) :rocket:
+Since I was a kid, I've always been interested in tech and sciences. From July 2021 until July 2022 I'll be dedicating myself to become an outstanding Web Dev and if you want to follow my learning path you can just follow this GitHub profile to see my improvements. 
 
 Please check my [assignments repository](https://github.com/GabrielJorge94/trybe-assignments) if you're interested into learn more about my work. I'll be updating it daily while I'm moving further on the program.
 
