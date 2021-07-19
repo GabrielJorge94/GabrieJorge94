@@ -23,5 +23,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 [![github](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][1]
 [![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][2]
 ---
-[1]: http://www.github.com/
+[1]: https://www.facebook.com/gabrieelh
 [2]: https://www.linkedin.com/in/gabrieelh/
