@@ -1,12 +1,8 @@
-Hi all,
+As a highly skilled and experienced software developer with expertise in React, Node, and Shopify, I am dedicated to building scalable, high-performance e-commerce solutions that deliver a seamless and engaging user experience. My strong technical skills and ability to work on projects from concept to launch allows me to deliver results that drive business growth and improve customer satisfaction. I have experience working on a wide range of projects, from small business websites to large enterprise systems and everything in between.
 
-I'm a Full Stack Software Engineer at Unit 203.
+I am a quick learner, always eager to explore new technologies and methodologies to improve my skills and deliver better solutions. I am also a strong communicator and team player, able to work effectively with other developers, designers, and stakeholders. I also have experience with Agile development process.
 
-Industry Expertise: 1 year building an exceptional foundation of knowledge and relationships in the Software Development industry.
-
-Relevant skills: Well versed in developing web applications using React on the Front-End, and NodeJs on the Back-End, and testing software using Jest at a high level.
-
-Relationship Build: 5+ years of experience collaborating effectively with cross-functional colleagues on internal and external teams.
+With a proven track record of delivering successful projects on time and on budget, I am confident in my ability to make a valuable contribution to any organization. My ultimate goal is to be a part of a team that is working on innovative and challenging projects and to be able to learn and grow as a developer.
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
